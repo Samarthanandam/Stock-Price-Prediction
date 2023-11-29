@@ -1,0 +1,8 @@
+keras
+matplotlib
+numpy
+pandas
+pandas_datareader
+Pillow
+scikit_learn
+yfinance
