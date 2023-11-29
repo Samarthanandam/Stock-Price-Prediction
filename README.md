@@ -25,24 +25,16 @@ Deployment via Streamlit: Our trained wizardry integrates seamlessly into a Stre
 In summary, our project concocts a potion of LSTM magic, stirred with the whimsy of emojis, and served in a Streamlit chalice for a delightful journey into stock price prediction and forecasting. 🚀🧙‍♂️
 
 # Installation
-# Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/stock-prediction.git
-cd stock-prediction
-#Install dependencies:
-bash
-Copy code
-#pip install -r requirements.txt
-#How to Run
-#Execute the following command:
 
-bash
-Copy code
-streamlit run app.py
-Visit http://localhost:8501 in your browser to explore the dashboard.
+## Install the requirements libraries using pip
+----------
+    $ pip install -r requirements.txt
 
-# Deployment
+## Type this command and run the project:
+----------
+    $ streamlit run app.py
+
+# Deployed Project
 Check out the live deployment of the project here.
 
 Feel free to contribute or report issues. Happy forecasting! 📈✨
