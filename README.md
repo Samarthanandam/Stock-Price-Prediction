@@ -35,7 +35,7 @@ In summary, our project concocts a potion of LSTM magic, stirred with the whimsy
     $ streamlit run app.py
 
 # Deployed Project
-Check out the live deployment of the project here.
+Check out the live deployment of the project here [Demo!](https://stockwise-navigator.onrender.com/).
 
 Feel free to contribute or report issues. Happy forecasting! 📈✨
 
